@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "44c5d9c86515f728",
+        "id": "59c21edc8f9914b1",
         "type": "tabs",
         "children": [
           {
-            "id": "7739110466a4e637",
+            "id": "43fa9a7536d7572c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Semanas/Semana1/TikTok como Compañía.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TikTok como Compañía"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semanas/Semana1/Tiktok como Compañía.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Tiktok como Compañía"
             }
           },
           {
@@ -136,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Semanas/Semana1/Tiktok como Compañía.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tiktok como Compañía"
             }
           },
           {
@@ -183,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +205,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7739110466a4e637",
+  "active": "3009c587bf3fbdc1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Semanas/Semana1/TikTok como Compañía.md",
     "Untitled",
+    "Casos/TikTok",
+    "Semanas/Semana1",
+    "Casos",
+    "Semanas",
     "Welcome.md"
   ]
 }
