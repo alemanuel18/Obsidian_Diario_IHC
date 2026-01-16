@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47adbfcfea8ce842",
+            "id": "dde13dd5a14b6611",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Semanas/Semana1/Usuarios.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Usuarios"
             }
           }
         ]
@@ -201,12 +205,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21a64219fcc3b7e1",
+  "active": "dde13dd5a14b6611",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-14 20.55.50.excalidraw.md",
-    "Excalidraw",
+    "Semanas/Semana1/Anexos/~$Respuestas.xlsx",
     "Semanas/Semana1/TikTok como aplicación.md",
+    "Semanas/Semana1/Usuarios.md",
+    "Semanas/Semana1/Anexos/Pasted image 20260115220247.png",
+    "Semanas/Semana1/Anexos/Pasted image 20260115220242.png",
+    "Semanas/Semana1/Anexos/Pasted image 20260115215517.png",
     "Semanas/Semana1/TikTok como Compañía.md",
+    "Excalidraw/Drawing 2026-01-15 21.47.05.excalidraw.md",
+    "Excalidraw",
+    "Semanas/Semana1/Anexos/Respuestas.xlsx",
+    "Semanas/Semana1/Anexos/~$responses-eTPbMUFs-01KF22D849DXKBTD559HHVZFTJ-UVJ4ENLAWYEQPTSUCPT6V3VQ.xlsx",
+    "Semanas/Semana1/Anexos/responses-eTPbMUFs-01KF22D849DXKBTD559HHVZFTJ-UVJ4ENLAWYEQPTSUCPT6V3VQ.xlsx",
+    "Semanas/Semana1/Anexos",
+    "Excalidraw/Drawing 2026-01-14 20.55.50.excalidraw.md",
     "Untitled",
     "Casos/TikTok",
     "Semanas/Semana1",
