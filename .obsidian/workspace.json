@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d410cb89c276ce5d",
+        "id": "37c976ad87043268",
         "type": "tabs",
         "children": [
           {
-            "id": "dde13dd5a14b6611",
+            "id": "6ca586e11e16288d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semanas/Semana1/Usuarios.md",
+                "file": "Semanas/Semana2/Formas de Sujetar el Telefono.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Usuarios"
+              "title": "Formas de Sujetar el Telefono"
+            }
+          },
+          {
+            "id": "e286f5b3988a72d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semanas/Semana1/TikTok como aplicación.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TikTok como aplicación"
             }
           }
         ]
@@ -189,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 414.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,27 +220,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dde13dd5a14b6611",
+  "active": "6ca586e11e16288d",
   "lastOpenFiles": [
-    "Semanas/Semana1/Anexos/~$Respuestas.xlsx",
-    "Semanas/Semana1/TikTok como aplicación.md",
     "Semanas/Semana1/Usuarios.md",
-    "Semanas/Semana1/Anexos/Pasted image 20260115220247.png",
-    "Semanas/Semana1/Anexos/Pasted image 20260115220242.png",
-    "Semanas/Semana1/Anexos/Pasted image 20260115215517.png",
+    "Semanas/Semana2/Formas de Sujetar el Telefono.md",
+    "Semanas/Semana2/Experimentos Touch.md",
+    "Semanas/Semana2/Controles de navegación.md",
+    "Semanas/Semana1/TikTok como aplicación.md",
+    "Anexos/Pasted image 20260121091624.png",
+    "Anexos/Pasted image 20260121091619.png",
+    "Anexos/Pasted image 20260121091524.png",
+    "Anexos/Pasted image 20260121091517.png",
+    "Anexos/Pasted image 20260121091423.png",
+    "Anexos/Pasted image 20260121091323.png",
+    "Semanas/Semana2/Anexos",
+    "Anexos/~$Respuestas.xlsx",
     "Semanas/Semana1/TikTok como Compañía.md",
+    "Anexos/Pasted image 20260115220247.png",
+    "Anexos/~$responses-eTPbMUFs-01KF22D849DXKBTD559HHVZFTJ-UVJ4ENLAWYEQPTSUCPT6V3VQ.xlsx",
+    "Anexos/Pasted image 20260115220242.png",
+    "Anexos/Pasted image 20260115215517.png",
+    "Semanas/Semana1/Anexos/~$Respuestas.xlsx",
     "Excalidraw/Drawing 2026-01-15 21.47.05.excalidraw.md",
     "Excalidraw",
-    "Semanas/Semana1/Anexos/Respuestas.xlsx",
+    "Anexos/Respuestas.xlsx",
     "Semanas/Semana1/Anexos/~$responses-eTPbMUFs-01KF22D849DXKBTD559HHVZFTJ-UVJ4ENLAWYEQPTSUCPT6V3VQ.xlsx",
-    "Semanas/Semana1/Anexos/responses-eTPbMUFs-01KF22D849DXKBTD559HHVZFTJ-UVJ4ENLAWYEQPTSUCPT6V3VQ.xlsx",
-    "Semanas/Semana1/Anexos",
+    "Anexos/responses-eTPbMUFs-01KF22D849DXKBTD559HHVZFTJ-UVJ4ENLAWYEQPTSUCPT6V3VQ.xlsx",
+    "Anexos",
     "Excalidraw/Drawing 2026-01-14 20.55.50.excalidraw.md",
     "Untitled",
-    "Casos/TikTok",
-    "Semanas/Semana1",
-    "Casos",
-    "Semanas",
     "Welcome.md"
   ]
 }
