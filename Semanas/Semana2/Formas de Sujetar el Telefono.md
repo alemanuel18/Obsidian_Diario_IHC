@@ -1,5 +1,8 @@
 ***
-# Introducción 
+# Introducción
+La pantalla táctil ha transformado radicalmente nuestra relación con la tecnología. Lo que antes requería mouse y teclado ahora sucede con un simple toque de nuestros dedos. Sin embargo, detrás de esta aparente simplicidad se esconde una pregunta fundamental: ¿estamos diseñando interfaces que realmente se adaptan a cómo las personas usan sus dispositivos?
+
+Este estudio nace de observar algo cotidiano: no todos sostienen su teléfono de la misma manera. Algunos navegan con una mano, otros con dos. Algunos tienen dificultad con botones pequeños, otros con elementos en las esquinas de la pantalla. Estas variaciones, aparentemente triviales, pueden determinar si una interfaz resulta frustrante o placentera de usar.
 # Metodología
 Se realizo un trabajo de campo, en el cual se solicito a diferentes estudiantes realizar ciertas acciones en sus teléfonos, de esta manera se podía observar como estos interactuaban con su dispositivo de manera cotidiana. 
 
@@ -32,7 +35,17 @@ Los registros de la investigación:
 ![[Experimentos Touch]]
 
 # Discusión
+Los resultados validan la Ley de Fitts en interfaces táctiles contemporáneas: los botones pequeños generaron consistentemente más errores y requirieron mayor tiempo de interacción. Esta correlación confirma que el tiempo para alcanzar un objetivo aumenta logarítmicamente cuando su tamaño disminuye (MT = a + b × log₂(2D/W)). El compromiso más evidente fue entre velocidad y precisión, donde los participantes manifestaron que "es difícil tener las dos", evidenciando que interfaces densas sacrifican inevitablemente la eficiencia de interacción.
 
+Aunque los participantes lograron precisión con botones cercanos, expresaron preferencia clara por elementos separados, indicando que la separación actúa como factor de confort cognitivo más que de capacidad técnica. Los usuarios modificaron su agarre según la tarea (una mano para navegar, dos para escribir), demostrando que el sistema puede inducir cambios ergonómicos. La ubicación en pantalla emergió como variable crítica: los elementos en esquinas generaron mayor dificultad debido a las limitaciones de alcance del pulgar.
+
+**Limitaciones:** La experimentación en condiciones controladas no replica completamente el uso real (movilidad, distracciones). El tamaño de muestra limitado y la variabilidad antropométrica de los participantes restringen la generalización de conclusiones.
 
 # Recomendación
+Este estudio demuestra que el diseño de interfaces táctiles no es solo una cuestión estética, sino una disciplina que debe fundamentarse en la comprensión de las capacidades y limitaciones humanas. La Ley de Fitts, formulada en 1954 para movimientos con mouse, sigue siendo relevante en la era táctil, pero debe complementarse con consideraciones adicionales: variabilidad de agarres, fatiga muscular, uso contextual y diversidad de usuarios.
+
+Lo más revelador fue la discrepancia entre percepción y desempeño: los usuarios se sentían precisos cuando no lo eran, lo que subraya la importancia de basar decisiones de diseño en datos objetivos más que en intuiciones. Como diseñadores, debemos crear interfaces que no solo funcionen técnicamente, sino que generen confianza y comodidad en los usuarios, reduciendo la carga cognitiva y física de la interacción.
+
+El futuro del diseño móvil probablemente incluirá más adaptabilidad: interfaces que aprendan de los patrones de uso individual y ajusten dinámicamente tamaños, posiciones y sensibilidad de elementos. Mientras tanto, adherirse a principios fundamentados en ergonomía humana sigue siendo la mejor práctica para crear experiencias universalmente usables.
 # Reflexión
+Al concluir con esta investigación, se logra apreciar los pequeños detalles que tienen las aplicaciones y paginas web para dar una buena experiencia a los usuarios. Siendo que esto se logro en poco tiempo ya que los dispositivos móviles con pantallas táctiles son una tecnología bastante reciente, es algo que se puede seguir desarrollando y expandiendo. 

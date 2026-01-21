@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Formas de Sujetar el Telefono"
             }
-          },
-          {
-            "id": "e286f5b3988a72d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semanas/Semana1/TikTok como aplicación.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "TikTok como aplicación"
-            }
           }
         ]
       }
@@ -222,11 +208,11 @@
   },
   "active": "6ca586e11e16288d",
   "lastOpenFiles": [
-    "Semanas/Semana1/Usuarios.md",
+    "Semanas/Semana1/TikTok como aplicación.md",
     "Semanas/Semana2/Formas de Sujetar el Telefono.md",
+    "Semanas/Semana1/Usuarios.md",
     "Semanas/Semana2/Experimentos Touch.md",
     "Semanas/Semana2/Controles de navegación.md",
-    "Semanas/Semana1/TikTok como aplicación.md",
     "Anexos/Pasted image 20260121091624.png",
     "Anexos/Pasted image 20260121091619.png",
     "Anexos/Pasted image 20260121091524.png",
