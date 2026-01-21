@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Usuarios"
             }
+          },
+          {
+            "id": "42e7340aac33d9bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +218,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dde13dd5a14b6611",
+  "active": "42e7340aac33d9bd",
   "lastOpenFiles": [
     "Semanas/Semana1/Anexos/~$Respuestas.xlsx",
     "Semanas/Semana1/TikTok como aplicación.md",
