@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ca586e11e16288d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semanas/Semana2/Formas de Sujetar el Telefono.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Formas de Sujetar el Telefono"
-            }
-          },
-          {
-            "id": "5dc870f85fe0770a",
+            "id": "3c9d3a9070aadcb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Pagina principal de TikTok"
             }
-          },
-          {
-            "id": "3c9d3a9070aadcb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semanas/Semana2/Personas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Personas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,13 +206,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5dc870f85fe0770a",
+  "active": "3c9d3a9070aadcb6",
   "lastOpenFiles": [
+    "Anexos/Página 1.png",
+    "Anexos/Página 2.png",
     "Semanas/Semana2/Personas.md",
-    "Semanas/Semana2/Pagina principal de TikTok.md",
     "Semanas/Semana2/Formas de Sujetar el Telefono.md",
     "Anexos/2.png",
     "Anexos/1.png",
+    "Semanas/Semana2/Pagina principal de TikTok.md",
     "Anexos/WhatsApp Image 2026-01-23 at 10.36.15 AM.jpeg",
     "Formas de Sujetar el Telefono 1(Informe Touch is fuzzy).md",
     "README.md",
@@ -254,11 +227,9 @@
     "Anexos/Pasted image 20260121091524.png",
     "Anexos/Pasted image 20260121091517.png",
     "Anexos/Pasted image 20260121091423.png",
-    "Anexos/Pasted image 20260121091323.png",
     "Semanas/Semana2/Anexos",
     "Anexos/~$Respuestas.xlsx",
     "Semanas/Semana1/TikTok como Compañía.md",
-    "Anexos/Pasted image 20260115220247.png",
     "Anexos/~$responses-eTPbMUFs-01KF22D849DXKBTD559HHVZFTJ-UVJ4ENLAWYEQPTSUCPT6V3VQ.xlsx",
     "Semanas/Semana1/Anexos/~$Respuestas.xlsx",
     "Excalidraw/Drawing 2026-01-15 21.47.05.excalidraw.md",
