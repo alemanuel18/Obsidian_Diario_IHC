@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revisión del diseño (Parte 2).md",
+                "file": "Semanas/Semana3/Revisión del diseño (Parte 2).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Revisión del diseño (Parte 2)"
             }
+          },
+          {
+            "id": "934bbfe359197bcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semanas/Semana3/Diseño de páginas adicionales.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Diseño de páginas adicionales"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,31 +221,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c688552fbd2a9e4",
+  "active": "934bbfe359197bcd",
   "lastOpenFiles": [
-    "Revisión del diseño (Parte 2).md",
-    "Formas de Sujetar el Telefono 1(Informe Touch is fuzzy).md",
+    "Semanas/Semana3/Revisión de diseños (Tamaños).md",
     "Semanas/Semana3/Diseño de páginas adicionales.md",
+    "Anexos/crete.jpg",
+    "Anexos/chat.jpg",
+    "Semanas/Semana3/Revisión del diseño (Parte 2).md",
+    "Anexos/Página 1.png",
+    "Anexos/Página 2.png",
+    "Anexos/Pasted image 20260121091323.png",
+    "Anexos/Pasted image 20260115220242.png",
+    "Anexos/Pasted image 20260115215517.png",
+    "Anexos/2.png",
+    "Anexos/1.png",
+    "Formas de Sujetar el Telefono 1(Informe Touch is fuzzy).md",
     "Anexos/Texto del párrafo.png",
     "Semanas/Semana2/Pagina principal de TikTok.md",
     "Semanas/Semana3",
     "Semanas/Semana1/TikTok como Compañía.md",
     "Semanas/Semana1/TikTok como aplicación.md",
-    "Anexos/Página 1.png",
-    "Anexos/Página 2.png",
     "Semanas/Semana2/Personas.md",
     "Semanas/Semana2/Formas de Sujetar el Telefono.md",
-    "Anexos/2.png",
-    "Anexos/1.png",
-    "Anexos/WhatsApp Image 2026-01-23 at 10.36.15 AM.jpeg",
     "README.md",
     "Semanas/Semana1/Usuarios.md",
     "Semanas/Semana2/Experimentos Touch.md",
     "Semanas/Semana2/Controles de navegación.md",
-    "Anexos/Pasted image 20260121091624.png",
-    "Anexos/Pasted image 20260121091619.png",
-    "Anexos/Pasted image 20260121091524.png",
-    "Anexos/Pasted image 20260121091517.png",
     "Semanas/Semana2/Anexos",
     "Anexos/~$Respuestas.xlsx",
     "Anexos/~$responses-eTPbMUFs-01KF22D849DXKBTD559HHVZFTJ-UVJ4ENLAWYEQPTSUCPT6V3VQ.xlsx",
