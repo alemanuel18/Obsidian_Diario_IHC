@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e2d722e5de05eb7d",
+        "id": "28864f13d27d16dd",
         "type": "tabs",
         "children": [
           {
-            "id": "bd3c15d3be7fb73d",
+            "id": "84f2b090bd449e0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semanas/Semana4/UX Case Study TikTok.md",
-                "mode": "preview",
+                "file": "Semanas/Semana5/Definición del problema.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "UX Case Study TikTok"
-            }
-          },
-          {
-            "id": "7fb67d1485966106",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Anexos/UX Case Study TikTok.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "UX Case Study TikTok"
+              "title": "Definición del problema"
             }
           }
         ]
@@ -218,11 +206,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd3c15d3be7fb73d",
+  "active": "84f2b090bd449e0e",
   "lastOpenFiles": [
-    "Semanas/Semana3/Revisión del diseño (Parte 2).md",
+    "Semanas/Semana5/Diagrama de afinidad 2.0.md",
+    "Semanas/Semana5/Definición del problema.md",
+    "Anexos/Diagrama de afinidad 2.0.png",
+    "Anexos/Pasted image 20260211220504.png",
+    "Anexos/Pasted image 20260211220304.png",
+    "Untitled",
+    "Semanas/Semana5",
     "Anexos/UX Case Study TikTok.pdf",
     "Semanas/Semana4/UX Case Study TikTok.md",
+    "Semanas/Semana3/Revisión del diseño (Parte 2).md",
     "Semanas/Semana4",
     "Semanas/Semana3/Iteración y Mejora del Diseño.md",
     "Semanas/Semana3/Diseño de páginas adicionales.md",
@@ -234,9 +229,6 @@
     "Anexos/Pasted image 20260130224301.png",
     "Semanas/Semana3/Revisión de diseños (Tamaños).md",
     "Anexos/crete.jpg",
-    "Anexos/chat.jpg",
-    "Anexos/Página 1.png",
-    "Anexos/Página 2.png",
     "Formas de Sujetar el Telefono 1(Informe Touch is fuzzy).md",
     "Semanas/Semana2/Pagina principal de TikTok.md",
     "Semanas/Semana3",
@@ -254,8 +246,6 @@
     "Semanas/Semana1/Anexos/~$Respuestas.xlsx",
     "Excalidraw/Drawing 2026-01-15 21.47.05.excalidraw.md",
     "Excalidraw",
-    "Anexos/Respuestas.xlsx",
-    "Semanas/Semana1/Anexos/~$responses-eTPbMUFs-01KF22D849DXKBTD559HHVZFTJ-UVJ4ENLAWYEQPTSUCPT6V3VQ.xlsx",
     "Excalidraw/Drawing 2026-01-14 20.55.50.excalidraw.md",
     "Welcome.md"
   ]
