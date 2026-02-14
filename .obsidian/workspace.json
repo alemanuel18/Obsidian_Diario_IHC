@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semanas/Semana5/Diagrama de Empatía.md",
+                "file": "Semanas/Semana2/Personas.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Diagrama de Empatía"
+              "title": "Personas"
+            }
+          },
+          {
+            "id": "f9f8f3aafaa5f92d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semanas/Semana2/Personas WhatsApp.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Personas WhatsApp"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,11 +235,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28a236e563cf431b",
+  "active": "f9f8f3aafaa5f92d",
   "lastOpenFiles": [
+    "Anexos/PersonasWhatsApp.png",
+    "Semanas/Semana2/Personas.md",
+    "Semanas/Semana2/Personas WhatsApp.md",
+    "Semanas/Semana5/Diagrama de Empatía.md",
     "Anexos/Un amigo nos pidió dinero prestado desde hace mucho y no lo a devuelto...png",
     "Semanas/Semana5/Definición del problema.md",
-    "Semanas/Semana5/Diagrama de Empatía.md",
     "Semanas/Semana5/Diagrama de afinidad 2.0.md",
     "Anexos/Diagrama de afinidad 2.0.png",
     "Anexos/Pasted image 20260211220504.png",
@@ -245,13 +262,11 @@
     "Anexos/2.jpg",
     "Anexos/Pasted image 20260130224301.png",
     "Semanas/Semana3/Revisión de diseños (Tamaños).md",
-    "Anexos/crete.jpg",
     "Formas de Sujetar el Telefono 1(Informe Touch is fuzzy).md",
     "Semanas/Semana2/Pagina principal de TikTok.md",
     "Semanas/Semana3",
     "Semanas/Semana1/TikTok como Compañía.md",
     "Semanas/Semana1/TikTok como aplicación.md",
-    "Semanas/Semana2/Personas.md",
     "Semanas/Semana2/Formas de Sujetar el Telefono.md",
     "README.md",
     "Semanas/Semana1/Usuarios.md",
