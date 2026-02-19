@@ -1,0 +1,2 @@
+***
+Sales con tus amigos a pasar el rato, cuando llega la hora de comer deciden comprar un par de pizzas, para facilitar y agilizar el pago de las pizzas tu pagas las pizzas, tus amigos te dicen que te pagaran la parte que les corresponde, sabes que son olvidadizos, por lo que decides crear un movimiento de préstamo con la nueva feature de WhatsApp.
