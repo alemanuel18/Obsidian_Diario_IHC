@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semanas/Semana5/Escenarios para pruebas con prototipos.md",
+                "file": "Prototipos en papel 1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Escenarios para pruebas con prototipos"
+              "title": "Prototipos en papel 1"
             }
           }
         ],
@@ -221,14 +221,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55a4dc1ed9d60375",
+  "active": "3009c587bf3fbdc1",
   "lastOpenFiles": [
     "Semanas/Semana5/Prototipos en papel.md",
-    "Semanas/Semana5/Escenarios para pruebas con prototipos.md",
-    "Semanas/Semana5/Flujos de usuario - Wireflows.md",
-    "Semanas/Semana5/Flujos de usuario - Task flows.md",
-    "Semanas/Semana5/Diagrama de Empatía.md",
+    "Prototipos en papel 1.md",
+    "Semanas/Semana5/Diagrama de afinidad 2.0.md",
     "Semanas/Semana5/Definición del problema.md",
+    "Semanas/Semana5/Diagrama de Empatía.md",
+    "Semanas/Semana5/Escenarios para pruebas con prototipos.md",
+    "Semanas/Semana5/Flujos de usuario - Task flows.md",
+    "Semanas/Semana5/Flujos de usuario - Wireflows.md",
+    "Semanas/Semana2/Formas de Sujetar el Telefono.md",
+    "Formas de Sujetar el Telefono 1(Informe Touch is fuzzy).md",
     "Anexos/Pasted image 20260218222143.png",
     "Anexos/Pasted image 20260218222140.png",
     "Anexos/Pasted image 20260218222135.png",
@@ -238,7 +242,6 @@
     "Anexos/Pasted image 20260218221326.png",
     "Anexos/Pasted image 20260218221318.png",
     "Anexos/Pasted image 20260218221309.png",
-    "Semanas/Semana5/Diagrama de afinidad 2.0.md",
     "Semanas/Semana2/Personas WhatsApp.md",
     "Anexos/PersonasWhatsApp.png",
     "Untitled",
@@ -250,13 +253,11 @@
     "Semanas/Semana3/Iteración y Mejora del Diseño.md",
     "Semanas/Semana3/Diseño de páginas adicionales.md",
     "Semanas/Semana3/Revisión de diseños (Tamaños).md",
-    "Formas de Sujetar el Telefono 1(Informe Touch is fuzzy).md",
     "Semanas/Semana2/Pagina principal de TikTok.md",
     "Semanas/Semana3",
     "Semanas/Semana1/TikTok como Compañía.md",
     "Semanas/Semana1/TikTok como aplicación.md",
     "Semanas/Semana2/Personas.md",
-    "Semanas/Semana2/Formas de Sujetar el Telefono.md",
     "README.md",
     "Semanas/Semana1/Usuarios.md",
     "Semanas/Semana2/Experimentos Touch.md",
@@ -267,7 +268,6 @@
     "Semanas/Semana1/Anexos/~$Respuestas.xlsx",
     "Excalidraw/Drawing 2026-01-15 21.47.05.excalidraw.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2026-01-14 20.55.50.excalidraw.md",
-    "Welcome.md"
+    "Excalidraw/Drawing 2026-01-14 20.55.50.excalidraw.md"
   ]
 }
