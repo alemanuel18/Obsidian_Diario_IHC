@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prototipos en papel 1.md",
+                "file": "Semanas/Semana5/Prototipos en papel.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prototipos en papel 1"
+              "title": "Prototipos en papel"
             }
           }
         ],
@@ -221,10 +221,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3009c587bf3fbdc1",
+  "active": "55a4dc1ed9d60375",
   "lastOpenFiles": [
-    "Semanas/Semana5/Prototipos en papel.md",
     "Prototipos en papel 1.md",
+    "Semanas/Semana5/Prototipos en papel.md",
     "Semanas/Semana5/Diagrama de afinidad 2.0.md",
     "Semanas/Semana5/Definición del problema.md",
     "Semanas/Semana5/Diagrama de Empatía.md",

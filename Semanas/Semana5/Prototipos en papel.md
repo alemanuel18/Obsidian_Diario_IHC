@@ -1,5 +1,10 @@
-![[Pasted image 20260218221326.png]]
 ***
+![[Pasted image 20260218221326.png]]
+- Los usuarios les dio confusión el botón de crear movimiento, pensando que el botón pertenecía a cada movimiento creado.
+- Confusión con la pestaña desplegable al crear movimiento.
+- Nombre de la cuenta 1 y cuenta 2, no les agrado.
+- No es algo malo, pero este sección es muy compleja, puede ser un app por aparte.
+Se debe mejorar la interfaz ya que genera confusión, cambiar los nombres descriptivos y plantear la posibilidad de simplificar la sección o considerarla una sección aparte. 
 # Pantalla control economía
 ![[Pasted image 20260218222119.png]]
 Pantalla de control economía, en esta pagina se puede llevar el control de los gastos/ingresos de una persona, mostrando el monto que tiene la cuenta, los últimos movimientos y los prestamos.
