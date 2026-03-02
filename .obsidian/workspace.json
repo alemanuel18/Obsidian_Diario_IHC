@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "28864f13d27d16dd",
+        "id": "c68e2fbd5132f852",
         "type": "tabs",
         "children": [
           {
-            "id": "0d5ad7cf311b25f1",
+            "id": "402d22cf03680b64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semanas/Semana5/Prototipos en papel.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prototipos en papel"
-            }
-          },
-          {
-            "id": "55a4dc1ed9d60375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semanas/Semana5/Prototipos en papel.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prototipos en papel"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55a4dc1ed9d60375",
+  "active": "402d22cf03680b64",
   "lastOpenFiles": [
-    "Prototipos en papel 1.md",
     "Semanas/Semana5/Prototipos en papel.md",
+    "Semanas/Semana6/Figma.md",
+    "Semanas/Semana6",
+    "Prototipos en papel 1.md",
     "Semanas/Semana5/Diagrama de afinidad 2.0.md",
     "Semanas/Semana5/Definición del problema.md",
     "Semanas/Semana5/Diagrama de Empatía.md",
@@ -244,7 +227,6 @@
     "Anexos/Pasted image 20260218221309.png",
     "Semanas/Semana2/Personas WhatsApp.md",
     "Anexos/PersonasWhatsApp.png",
-    "Untitled",
     "Semanas/Semana5",
     "Anexos/UX Case Study TikTok.pdf",
     "Semanas/Semana4/UX Case Study TikTok.md",
@@ -267,7 +249,6 @@
     "Anexos/~$responses-eTPbMUFs-01KF22D849DXKBTD559HHVZFTJ-UVJ4ENLAWYEQPTSUCPT6V3VQ.xlsx",
     "Semanas/Semana1/Anexos/~$Respuestas.xlsx",
     "Excalidraw/Drawing 2026-01-15 21.47.05.excalidraw.md",
-    "Excalidraw",
-    "Excalidraw/Drawing 2026-01-14 20.55.50.excalidraw.md"
+    "Excalidraw"
   ]
 }
