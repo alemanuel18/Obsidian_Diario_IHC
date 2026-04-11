@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Estadísticas de mamás gamer"
             }
+          },
+          {
+            "id": "f7948c064e8e97a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semanas/Semana12/Mom persona.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mom persona"
+            }
+          },
+          {
+            "id": "c26ae3dceba1f68f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semanas/Semana12/Analizando Steam.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Analizando Steam"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a9cca304ff8b24a7",
@@ -222,10 +249,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b042a6ee3417aa5",
+  "active": "c26ae3dceba1f68f",
   "lastOpenFiles": [
-    "Semanas/Semana12/Caso 3 STEAM FOR MOM's.md",
+    "Semanas/Semana12/Mom persona.md",
     "Semanas/Semana12/Estadísticas de mamás gamer.md",
+    "Semanas/Semana12/Caso 3 STEAM FOR MOM's.md",
+    "Semanas/Semana12/Analizando Steam.md",
+    "Anexos/Mom persona.png",
     "Semanas/Semana6/Figma.md",
     "Semanas/Semana6/Untitled.md",
     "Semanas/Semana12",
@@ -255,7 +285,6 @@
     "Anexos/Pasted image 20260218222119.png",
     "Anexos/Pasted image 20260218221326.png",
     "Anexos/Pasted image 20260218221318.png",
-    "Anexos/Pasted image 20260218221309.png",
     "Semanas/Semana2/Personas WhatsApp.md",
     "Semanas/Semana5",
     "Anexos/UX Case Study TikTok.pdf",
@@ -264,8 +293,6 @@
     "Semanas/Semana4",
     "Semanas/Semana3/Iteración y Mejora del Diseño.md",
     "Semanas/Semana3/Diseño de páginas adicionales.md",
-    "Semanas/Semana3/Revisión de diseños (Tamaños).md",
-    "Semanas/Semana2/Pagina principal de TikTok.md",
     "Semanas/Semana3",
     "Semanas/Semana2/Anexos",
     "Anexos/~$Respuestas.xlsx",
