@@ -1,0 +1,1 @@
+![[Diseñando una paleta de colores para mamás.png]]
