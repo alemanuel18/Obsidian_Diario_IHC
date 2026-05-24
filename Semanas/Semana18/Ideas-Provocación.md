@@ -14,4 +14,4 @@ Principio: Si no tienes redes sociales, no puedes pasar el tiempo en ellas.
 ### Dejar de utilizar dispotivos electronicos
 Principio: Si no utiliza dispotivos electronicos, no puede acceder a las redes sociales
 #### Soluciones utilizando Princio
-Limitar el uso de dispositivos electronicos/aplicaciones.
+- Limitar el uso de dispositivos electronicos/aplicaciones.
